@@ -1,4 +1,5 @@
 **Introduction**
+
 A recommendation engine is a model that can predict what a user may be interested in.
 When we apply this to the context of movies, this becomes a movie-recommendation engine.
 We filter items in out database by predicting how the current user might rate them. This
